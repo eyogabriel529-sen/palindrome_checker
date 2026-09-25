@@ -154,7 +154,7 @@ button:focus-visible {
   text-align: center;
   padding: 16px;
   font-size: 0.85rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(53, 68, 201, 0.8);
 }
 .site-footer a {
   color: inherit;
@@ -163,5 +163,5 @@ button:focus-visible {
 }
 
 .site-footer a:hover {
-  border-bottom-color: rgba(255, 255, 255, 0.9);
+  border-bottom-color: rgba(37, 111, 207, 0.9);
 }
